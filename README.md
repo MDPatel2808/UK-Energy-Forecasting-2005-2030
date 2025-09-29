@@ -34,9 +34,14 @@ It analyses historical energy consumption trends across UK regions and forecasts
 ---
 
 ## 📎 Additional Resources
-- Full dissertation report: [Report.pdf](Report.pdf)  
+- Full dissertation report: [Report.pdf](Report.pdf)
+- - SQL preprocessing script: [1st Step SQL.sql](1st%20Step%20SQL.sql)  
 - Power BI dashboard: [2nd Step PowerBI Dashboard.pbix](PowerBI/UK_Energy_Dashboard.pbix)  
 - Forecasting notebook: [3rd Step FORCASTING.ipynb](Python/forecasting_models.ipynb)  
-
+- Screenshots:  
+  - ![Dashboard](Screenshot%202025-04-09%20205917.png)  
+  - ![Forecast](Screenshot%202025-04-14%20002747.png)  
+  - ![Forecast](Screenshot%202025-04-14%20002852.png)  
+  - ![Forecast](Screenshot%202025-04-14%20002951.png)  
 ---
 
